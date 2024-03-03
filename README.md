@@ -5,7 +5,7 @@ As of my last knowledge update in January 2022, I can provide you with a general
 An Amazon sales dashboard typically provides sellers with a comprehensive view of their sales performance on the platform. Here are some common features you might find:
 
 Sales Overview:
-
+ 
 Total Sales: The overall revenue generated from your products.
 Units Sold: The total number of items sold.
 Average Selling Price: The average price at which your products are sold.
