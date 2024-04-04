@@ -12,7 +12,7 @@ Average Selling Price: The average price at which your products are sold.
 Order Metrics:
 
 Number of Orders: The total count of orders placed.
-Order Value: The total monetary value of all orders.
+Order Value: The total monetary value of all orders.   
 Product Performance:
 
 Best-Selling Products: A list of your top-performing products.
